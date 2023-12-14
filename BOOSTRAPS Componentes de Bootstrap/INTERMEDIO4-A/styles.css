@@ -1,0 +1,13 @@
+.navbar-dark .navbar-toggler-icon {
+    background-color: rgb(120, 210, 255);
+  }
+  
+  h1{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+  }
+
+  body{
+    background: url(fondo.png);
+  }

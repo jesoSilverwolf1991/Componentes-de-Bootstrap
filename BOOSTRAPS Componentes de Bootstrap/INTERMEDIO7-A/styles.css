@@ -1,0 +1,11 @@
+.carousel-item {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .carousel-caption {
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 20px;
+   
+  }

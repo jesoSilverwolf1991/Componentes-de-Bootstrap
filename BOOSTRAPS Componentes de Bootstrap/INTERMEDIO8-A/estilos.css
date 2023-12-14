@@ -1,0 +1,23 @@
+body {
+    padding-top: 20px;
+    background-color: rgb(255, 179, 0)
+  }
+  
+  .container {
+    max-width: 800px;
+  }
+  
+
+  .img-fluid {
+    margin-bottom: 20px;
+  }
+
+  h2{
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  h4{
+    font-family: Arial, Helvetica, sans-serif;
+  }
